@@ -4,6 +4,6 @@
     "start": "cypress open"
   },
   "dependencies": {
-    "cypress": "^11.1.0"
+    "cypress": "^15.5.0"
   }
 }
