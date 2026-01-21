@@ -1,2 +1,5 @@
 cypress/screenshots
 cypress/videos
+node_modules
+.DS_Store
+.idea/
